@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/itmCurrent"
+            android:checked="true"
+            android:icon="@drawable/ic_home_sec"
+            android:title="@string/currentWeather" />
+
+        <item
+            android:id="@+id/itmSearch"
+            android:icon="@drawable/ic_search_sec"
+            android:title="@string/search" />
+
+        <item
+            android:id="@+id/itmHistory"
+            android:icon="@drawable/ic_history_sec"
+            android:title="@string/history" />
+
+        <item
+            android:id="@+id/itmAbout"
+            android:icon="@drawable/ic_setting_sec"
+            android:title="@string/about" />
+
+    </group>
+
+</menu>

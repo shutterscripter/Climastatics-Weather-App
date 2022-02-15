@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.revosleap.layout:blurrylayout:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dd7d78647de170c250abbd8e9497e4db/transformed/jetified-blurrylayout-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dd7d78647de170c250abbd8e9497e4db/transformed/jetified-blurrylayout-2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dd7d78647de170c250abbd8e9497e4db/transformed/jetified-blurrylayout-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revosleap.layout/blurrylayout/2.0.0/31de6da5c68fca892dff38dc8c6141bdb9575b6e/blurrylayout-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revosleap.layout/blurrylayout/2.0.0/d331103e9e2b1f54d45f1f2c77eb4d8100e5fb85/blurrylayout-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

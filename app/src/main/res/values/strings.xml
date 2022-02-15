@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Climastatics</string>
+    <string name="climax_statics">CLIMASTATICS</string>
+    <string name="currentWeather">Current Weather</string>
+    <string name="about">About</string>
+    <string name="climastatics">CLIMASTATICS</string>
+    <string name="current_weather_app">Current weather app</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="version">V 1.0</string>
+    <string name="about_info">All the data for climastatic App is provided by One Call API™ .Climastatic aggregates and processes meteorological data from tens of thousands of weather stations, on-ground radars and satellites to bring accurate and actionable weather data for any location worldwide</string>
+    <string name="credits">Credits: Jayesh Arun Shinde</string>
+    <string name="search">Search</string>
+    <string name="history">History</string>
+    <string name="min">Min</string>
+</resources>

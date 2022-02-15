@@ -1,0 +1,9 @@
+com/jayesh/weatherapp/database/WeatherDatabase_Impl.java
+ com.jayesh.weatherapp.database.WeatherDatabase_Impl
+ com.jayesh.weatherapp.database.WeatherDatabase_Impl$1
+com/jayesh/weatherapp/database/WeatherDao_Impl.java
+ com.jayesh.weatherapp.database.WeatherDao_Impl
+ com.jayesh.weatherapp.database.WeatherDao_Impl$1
+ com.jayesh.weatherapp.database.WeatherDao_Impl$2
+com/jayesh/weatherapp/BuildConfig.java
+ com.jayesh.weatherapp.BuildConfig

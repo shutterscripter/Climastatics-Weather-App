@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/border_radius.xml" value="0.1" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/card_bg.xml" value="0.1" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/gray_button_bg.xml" value="0.1" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_back.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_history_sec.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_home_sec.xml" value="0.1" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_humidity.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_logo_main_background.xml" value="0.156" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_max_temp.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_min_temp.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_notification.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_preferences.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_pressure.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_search.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_search_background.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_search_black.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_search_sec.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_setting_sec.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_visibility.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/ic_wind.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/itm_selector.xml" value="0.1" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/nav_bg.xml" value="0.1" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/primary_gradient.xml" value="0.1345" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/search_bar_bg.xml" value="0.156" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/drawable/yellow_button_bg.xml" value="0.1" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/layout/activity_about.xml" value="0.22" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/layout/activity_spash_screen.xml" value="0.22" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/layout/fragment_about.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/layout/fragment_curent_weather.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/layout/fragment_history.xml" value="0.1585144927536232" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/layout/fragment_search.xml" value="0.22" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/layout/fragment_settings.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/layout/history_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/menu/item_nav.xml" value="0.1796875" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/menu/nav_menu_home.xml" value="0.1796875" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/mipmap-anydpi-v26/ic_logo_main.xml" value="0.1" />
+        <entry key="..\:/Android/Weather app/App/app/src/main/res/mipmap-anydpi-v26/ic_logo_main_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
