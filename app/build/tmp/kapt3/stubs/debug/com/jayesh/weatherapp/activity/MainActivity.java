@@ -11,33 +11,33 @@ public final class MainActivity extends androidx.appcompat.app.AppCompatActivity
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.FrameLayout getFrameLayout() {
         return null;
     }
     
-    public final void setFrameLayout(@org.jetbrains.annotations.NotNull()
+    public final void setFrameLayout(@org.jetbrains.annotations.NotNull
     android.widget.FrameLayout p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final com.google.android.material.bottomnavigation.BottomNavigationView getBnMain() {
         return null;
     }
     
-    public final void setBnMain(@org.jetbrains.annotations.NotNull()
+    public final void setBnMain(@org.jetbrains.annotations.NotNull
     com.google.android.material.bottomnavigation.BottomNavigationView p0) {
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     
     private final void setDefaultFragment() {
     }
     
-    @java.lang.Override()
+    @java.lang.Override
     public void onBackPressed() {
     }
 }

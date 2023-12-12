@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jayesh Shinde\\.gradle\\caches\\transforms-3\\a9f4b58c9a2ae423fef5b0d767ddffe8\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "/home/jay/.gradle/caches/transforms-3/eb1bd6733ad7c5f56ae1210ba0cf7ac8/transformed/media-1.0.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jayesh Shinde\\.gradle\\caches\\transforms-3\\1f8befa73e6b4a6760b78939c46546f5\\transformed\\appcompat-1.3.1\\res\\values-v24\\values-v24.xml",
+                    "source": "/home/jay/.gradle/caches/transforms-3/c4483e3f10a4ab8475d4dde76cdfcd8b/transformed/appcompat-1.3.1/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

@@ -17,30 +17,30 @@ public final class SettingsFragment extends androidx.fragment.app.Fragment {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final com.google.android.material.appbar.MaterialToolbar getMToolbar() {
         return null;
     }
     
-    public final void setMToolbar(@org.jetbrains.annotations.NotNull()
+    public final void setMToolbar(@org.jetbrains.annotations.NotNull
     com.google.android.material.appbar.MaterialToolbar p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final androidx.cardview.widget.CardView getCvunit() {
         return null;
     }
     
-    public final void setCvunit(@org.jetbrains.annotations.NotNull()
+    public final void setCvunit(@org.jetbrains.annotations.NotNull
     androidx.cardview.widget.CardView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final androidx.cardview.widget.CardView getCvAbout() {
         return null;
     }
     
-    public final void setCvAbout(@org.jetbrains.annotations.NotNull()
+    public final void setCvAbout(@org.jetbrains.annotations.NotNull
     androidx.cardview.widget.CardView p0) {
     }
     
@@ -51,11 +51,11 @@ public final class SettingsFragment extends androidx.fragment.app.Fragment {
     public final void setStatus(boolean p0) {
     }
     
-    @org.jetbrains.annotations.Nullable()
-    @java.lang.Override()
-    public android.view.View onCreateView(@org.jetbrains.annotations.NotNull()
-    android.view.LayoutInflater inflater, @org.jetbrains.annotations.Nullable()
-    android.view.ViewGroup container, @org.jetbrains.annotations.Nullable()
+    @org.jetbrains.annotations.Nullable
+    @java.lang.Override
+    public android.view.View onCreateView(@org.jetbrains.annotations.NotNull
+    android.view.LayoutInflater inflater, @org.jetbrains.annotations.Nullable
+    android.view.ViewGroup container, @org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
         return null;
     }

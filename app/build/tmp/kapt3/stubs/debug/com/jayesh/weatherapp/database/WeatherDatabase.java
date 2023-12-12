@@ -10,6 +10,6 @@ public abstract class WeatherDatabase extends androidx.room.RoomDatabase {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public abstract com.jayesh.weatherapp.database.WeatherDao weatherDao();
 }

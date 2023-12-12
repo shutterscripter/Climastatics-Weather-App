@@ -6,114 +6,114 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml
+8-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="31" />
-9-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml
+9-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:6:5-67
-11-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:6:22-64
+11-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:6:5-67
+11-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:6:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- permissions for location -->
-12-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:7:5-79
-12-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:7:22-76
+12-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:7:5-79
+12-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:7:22-76
 13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-13-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:8:5-81
-13-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:8:22-78
+13-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:8:5-81
+13-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:8:22-78
 14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-14-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:9:5-79
-14-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:9:22-76
+14-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:9:5-79
+14-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:9:22-76
 15
 16    <application
-16-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:11:5-44:19
+16-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:11:5-44:19
 17        android:allowBackup="true"
-17-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:12:9-35
+17-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:12:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-18-->[androidx.core:core:1.6.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\0d81eeb35944ce2f304701875f13dd6e\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+18-->[androidx.core:core:1.6.0] /home/jay/.gradle/caches/transforms-3/e4817d2de954403921599609c2a4f94d/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 19        android:debuggable="true"
 20        android:icon="@mipmap/ic_logo_v2"
-20-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:13:9-42
+20-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:13:9-42
 21        android:label="@string/app_name"
-21-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:14:9-41
+21-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:14:9-41
 22        android:roundIcon="@mipmap/ic_logo_v2_round"
-22-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:15:9-53
+22-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:15:9-53
 23        android:supportsRtl="true"
-23-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:16:9-35
+23-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:16:9-35
 24        android:testOnly="true"
 25        android:theme="@style/Theme.WeatherApp" >
-25-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:17:9-48
+25-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:17:9-48
 26        <activity
-26-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:19:9-21:40
+26-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:19:9-21:40
 27            android:name="com.jayesh.weatherapp.activity.AboutActivity"
-27-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:20:13-51
+27-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:20:13-51
 28            android:exported="false" />
-28-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:21:13-37
+28-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:21:13-37
 29        <activity
-29-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:22:9-24:40
+29-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:22:9-24:40
 30            android:name="com.jayesh.weatherapp.activity.TempActivity"
-30-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:23:13-50
+30-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:23:13-50
 31            android:exported="false" />
-31-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:24:13-37
+31-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:24:13-37
 32        <activity
-32-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:25:9-27:40
+32-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:25:9-27:40
 33            android:name="com.jayesh.weatherapp.activity.SearchByCityActivity"
-33-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:26:13-58
+33-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:26:13-58
 34            android:exported="false" />
-34-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:27:13-37
+34-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:27:13-37
 35        <activity
-35-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:28:9-36:20
+35-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:28:9-36:20
 36            android:name="com.jayesh.weatherapp.activity.SplashScreen"
-36-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:29:13-50
+36-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:29:13-50
 37            android:exported="true" >
-37-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:30:13-36
+37-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:30:13-36
 38            <intent-filter>
-38-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:31:13-35:29
+38-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:31:13-35:29
 39                <action android:name="android.intent.action.MAIN" />
-39-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:32:17-69
-39-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:32:25-66
+39-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:32:17-69
+39-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:32:25-66
 40
 41                <category android:name="android.intent.category.LAUNCHER" />
-41-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:34:17-77
-41-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:34:27-74
+41-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:34:17-77
+41-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:34:27-74
 42            </intent-filter>
 43        </activity>
 44        <activity
-44-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:37:9-39:39
+44-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:37:9-39:39
 45            android:name="com.jayesh.weatherapp.activity.MainActivity"
-45-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:38:13-50
+45-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:38:13-50
 46            android:exported="true" />
-46-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:39:13-36
+46-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:39:13-36
 47
 48        <meta-data
-48-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:41:9-43:57
+48-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:41:9-43:57
 49            android:name="preloaded_fonts"
-49-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:42:13-43
+49-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:42:13-43
 50            android:resource="@array/preloaded_fonts" />
-50-->J:\Android\Weather app\App\app\src\main\AndroidManifest.xml:43:13-54
+50-->/home/jay/Projects/Climastatics-Weather-App/app/src/main/AndroidManifest.xml:43:13-54
 51
 52        <service
-52-->[androidx.room:room-runtime:2.4.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\1c7cca168cb4e59c5db4509825ee111c\transformed\room-runtime-2.4.0\AndroidManifest.xml:25:9-28:40
+52-->[androidx.room:room-runtime:2.4.0] /home/jay/.gradle/caches/transforms-3/91dedffb5b3955d079ba90368107f92d/transformed/room-runtime-2.4.0/AndroidManifest.xml:25:9-28:40
 53            android:name="androidx.room.MultiInstanceInvalidationService"
-53-->[androidx.room:room-runtime:2.4.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\1c7cca168cb4e59c5db4509825ee111c\transformed\room-runtime-2.4.0\AndroidManifest.xml:26:13-74
+53-->[androidx.room:room-runtime:2.4.0] /home/jay/.gradle/caches/transforms-3/91dedffb5b3955d079ba90368107f92d/transformed/room-runtime-2.4.0/AndroidManifest.xml:26:13-74
 54            android:directBootAware="true"
-54-->[androidx.room:room-runtime:2.4.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\1c7cca168cb4e59c5db4509825ee111c\transformed\room-runtime-2.4.0\AndroidManifest.xml:27:13-43
+54-->[androidx.room:room-runtime:2.4.0] /home/jay/.gradle/caches/transforms-3/91dedffb5b3955d079ba90368107f92d/transformed/room-runtime-2.4.0/AndroidManifest.xml:27:13-43
 55            android:exported="false" />
-55-->[androidx.room:room-runtime:2.4.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\1c7cca168cb4e59c5db4509825ee111c\transformed\room-runtime-2.4.0\AndroidManifest.xml:28:13-37
+55-->[androidx.room:room-runtime:2.4.0] /home/jay/.gradle/caches/transforms-3/91dedffb5b3955d079ba90368107f92d/transformed/room-runtime-2.4.0/AndroidManifest.xml:28:13-37
 56
 57        <activity
-57-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\897fe18c0dc9eaf0875ed4c9c7f30589\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+57-->[com.google.android.gms:play-services-base:17.5.0] /home/jay/.gradle/caches/transforms-3/734000499d5a0b641d9f26ecc9e95695/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
 58            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-58-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\897fe18c0dc9eaf0875ed4c9c7f30589\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+58-->[com.google.android.gms:play-services-base:17.5.0] /home/jay/.gradle/caches/transforms-3/734000499d5a0b641d9f26ecc9e95695/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
 59            android:exported="false"
-59-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\897fe18c0dc9eaf0875ed4c9c7f30589\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+59-->[com.google.android.gms:play-services-base:17.5.0] /home/jay/.gradle/caches/transforms-3/734000499d5a0b641d9f26ecc9e95695/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
 60            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-60-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\897fe18c0dc9eaf0875ed4c9c7f30589\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+60-->[com.google.android.gms:play-services-base:17.5.0] /home/jay/.gradle/caches/transforms-3/734000499d5a0b641d9f26ecc9e95695/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
 61
 62        <meta-data
-62-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\b1ab3c79527785fe9d8802c2607a24ab\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+62-->[com.google.android.gms:play-services-basement:17.5.0] /home/jay/.gradle/caches/transforms-3/4f2645220ce67778dd0a0de145ee172b/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
 63            android:name="com.google.android.gms.version"
-63-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\b1ab3c79527785fe9d8802c2607a24ab\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+63-->[com.google.android.gms:play-services-basement:17.5.0] /home/jay/.gradle/caches/transforms-3/4f2645220ce67778dd0a0de145ee172b/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
 64            android:value="@integer/google_play_services_version" />
-64-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Jayesh Shinde\.gradle\caches\transforms-3\b1ab3c79527785fe9d8802c2607a24ab\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+64-->[com.google.android.gms:play-services-basement:17.5.0] /home/jay/.gradle/caches/transforms-3/4f2645220ce67778dd0a0de145ee172b/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
 65    </application>
 66
 67</manifest>

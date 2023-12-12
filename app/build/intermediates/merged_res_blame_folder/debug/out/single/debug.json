@@ -1,446 +1,446 @@
 [
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_notification.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_notification.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo_v2_foreground.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xhdpi/ic_logo_v2_foreground.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home_sec.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_home_sec.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_back.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_back.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_search_bar_bg.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\search_bar_bg.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo_back_foreground.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxxhdpi/ic_logo_back_foreground.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\menu_item_nav.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\menu\\item_nav.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo_back.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxxhdpi/ic_logo_back.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_v2_foreground.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_v2_foreground.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo_v2_round.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xhdpi/ic_logo_v2_round.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_preferences.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_preferences.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_itm_selector.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\itm_selector.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo_main.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-hdpi/ic_logo_main.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_history.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\fragment_history.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_setting_sec.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_setting_sec.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_about.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_about.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_rounded_corner.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/rounded_corner.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_unit.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_unit.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo_v2_foreground.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxxhdpi/ic_logo_v2_foreground.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo_v2.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxxhdpi/ic_logo_v2.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo_back.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-hdpi/ic_logo_back.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_corner.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_primary_gradient.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\primary_gradient.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo_main.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxhdpi/ic_logo_main.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_line01.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/line01.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo_main.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-mdpi/ic_logo_main.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_line.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/line.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo_v2_foreground.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-mdpi/ic_logo_v2_foreground.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_logo_main_background.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_logo_main_background.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo_back_round.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xhdpi/ic_logo_back_round.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_v2.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_v2.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_itm_selector.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/itm_selector.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_main.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_main.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_activity_temp.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/activity_temp.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_min_temp.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_min_temp.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo_back.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xhdpi/ic_logo_back.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_gray_button_bg.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\gray_button_bg.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo_main.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxxhdpi/ic_logo_main.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/menu_item_nav.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/menu/item_nav.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_yellow_button_bg.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\yellow_button_bg.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo_main_round.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_main_round.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo_back_foreground.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-mdpi/ic_logo_back_foreground.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_storm_logo.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\storm_logo.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_settings.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_logo_main_round.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-anydpi-v26/ic_logo_main_round.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_v2_foreground.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_v2_foreground.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_border_radius.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/border_radius.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_wind.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_wind.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_home_sec.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_home_sec.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_back_round.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_back_round.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo_v2.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxhdpi/ic_logo_v2.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo_back.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_back.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_search_by_city.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\activity_search_by_city.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_line01.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\line01.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo_back_round.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxxhdpi/ic_logo_back_round.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search_black.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_search_black.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_primary_gradient.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/primary_gradient.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_back.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_back.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_history_sec.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_history_sec.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo_back_round.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_back_round.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_visibility.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_visibility.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_main.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_main.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_search.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_search.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\menu_toolbar_menu.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\menu\\toolbar_menu.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo_v2_foreground.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-hdpi/ic_logo_v2_foreground.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_back_foreground.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_back_foreground.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_wind.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_wind.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_nav_bg.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\nav_bg.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_cloud_img.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/cloud_img.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_v2_round.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_v2_round.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/anim_bottom_animation.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/anim/bottom_animation.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo_v2_round.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_v2_round.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_fragment_history.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/fragment_history.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_back_foreground.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_back_foreground.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_logo_v2_round.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-anydpi-v26/ic_logo_v2_round.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_pressure.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_pressure.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_card_bg.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/card_bg.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_bg.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\card_bg.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_humidity.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_humidity.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/font_montserrat_bold.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/font/montserrat_bold.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_drawer_header.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\drawer_header.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo_v2.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xhdpi/ic_logo_v2.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_back.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_back.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_logo_main_background.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_logo_main_background.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_back_round.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_back_round.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_logo_back.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-anydpi-v26/ic_logo_back.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_cloud_img.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\cloud_img.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_activity_search_by_city.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/activity_search_by_city.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_back.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_back.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_gray_button_bg.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/gray_button_bg.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_max_temp.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_max_temp.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo_back_foreground.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xhdpi/ic_logo_back_foreground.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_back.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_back.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_v2.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_v2.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_search.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-anydpi-v26/ic_search.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_main.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_main.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo_back_round.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-mdpi/ic_logo_back_round.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search_background.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_search_background.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_main.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_main.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_unit.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_unit.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_spash_screen.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\activity_spash_screen.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_about.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_about.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_v2_round.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_v2_round.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_activity_spash_screen.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/activity_spash_screen.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\font\\montserrat.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo_back_round.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-hdpi/ic_logo_back_round.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_search_round.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_search_round.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_fragment_settings.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/fragment_settings.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_search.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_storm_logo.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/storm_logo.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_back_foreground.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_back_foreground.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_v2.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_v2.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_yellow_button_bg.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/yellow_button_bg.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_pressure.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_pressure.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_v2.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_v2.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_city_back.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/city_back.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_back_round.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_back_round.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_fragment_about.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/fragment_about.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_back_round.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_back_round.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_bold.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\font\\montserrat_bold.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo_back_round.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxhdpi/ic_logo_back_round.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_history_sec.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_history_sec.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_min_temp.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_min_temp.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_visibility.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_visibility.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_v2.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_v2.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_search_black.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_search_black.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_v2_round.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_v2_round.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_search_bar_bg.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/search_bar_bg.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_history_item.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\history_item.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_fragment_search.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/fragment_search.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_city_back.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\city_back.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_temp.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/temp.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_v2_round.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_v2_round.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/font_montserrat.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/font/montserrat.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_v2_round.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_v2_round.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_logo_back_round.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-anydpi-v26/ic_logo_back_round.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_v2_foreground.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_v2_foreground.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_search_sec.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_search_sec.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_main.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_main.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_logo_main.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-anydpi-v26/ic_logo_main.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_preferences.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_preferences.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_logo_v2.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-anydpi-v26/ic_logo_v2.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_line.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\line.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_logo_main.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xhdpi/ic_logo_main.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_max_temp.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_max_temp.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\anim_top_animation.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\anim\\top_animation.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo_back_foreground.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-hdpi/ic_logo_back_foreground.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_logo_back_foreground.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo_back_foreground.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_logo_back_background.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_logo_back_background.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_temp.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\activity_temp.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_search_background.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_search_background.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat_medium.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\font\\montserrat_medium.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo_back_foreground.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxhdpi/ic_logo_back_foreground.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_curent_weather.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\fragment_curent_weather.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_drawer_header.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/drawer_header.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_logo_back_foreground.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_logo_back_foreground.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_logo_v2_round.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxxhdpi/ic_logo_v2_round.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\logo.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo_v2.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-hdpi/ic_logo_v2.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_back.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_back.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_logo_v2_round.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-hdpi/ic_logo_v2_round.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/menu_toolbar_menu.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/menu/toolbar_menu.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\anim_bottom_animation.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_ic_notification.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/ic_notification.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_logo_v2_foreground.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo_v2_foreground.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_nav_bg.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/nav_bg.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_border_radius.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\border_radius.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_history_item.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/history_item.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_search.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_search.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/drawable_logo.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/drawable/logo.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search_sec.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_search_sec.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo_v2_foreground.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxhdpi/ic_logo_v2_foreground.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo_v2_round.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxhdpi/ic_logo_v2_round.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_logo_v2_foreground.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo_v2_foreground.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/font_montserrat_medium.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/font/montserrat_medium.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_humidity.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_humidity.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo_main.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_main.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/layout_fragment_curent_weather.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/layout/fragment_curent_weather.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_search.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\fragment_search.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_logo_back.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-xxhdpi/ic_logo_back.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_temp.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\temp.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_logo_back_background.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_logo_back_background.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_logo_back_round.png.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo_back_round.png"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_search_round.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-anydpi-v26/ic_search_round.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_logo_v2.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_logo_v2.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo_v2.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-mdpi/ic_logo_v2.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_about.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\layout\\fragment_about.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/anim_top_animation.xml.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/anim/top_animation.xml"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_setting_sec.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_setting_sec.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo_back.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-mdpi/ic_logo_back.png"
     },
     {
-        "merged": "J:\\Android\\Weather app\\App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
-        "source": "J:\\Android\\Weather app\\App\\app\\src\\main\\res\\drawable\\ic_back.xml"
+        "merged": "/home/jay/Projects/Climastatics-Weather-App/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_logo_v2_round.png.flat",
+        "source": "/home/jay/Projects/Climastatics-Weather-App/app/src/main/res/mipmap-mdpi/ic_logo_v2_round.png"
     }
 ]

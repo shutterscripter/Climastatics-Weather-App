@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/primary_white"
     tools:context=".fragment.CurrentWeatherFragment">
 
     <LinearLayout
@@ -45,6 +46,8 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:background="@color/primary_white"
+                    android:gravity="center"
                     android:orientation="vertical"
                     android:paddingVertical="25dp">
 
@@ -105,7 +108,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_margin="10dp"
+                android:layout_margin="20dp"
                 android:orientation="vertical">
 
                 <!--    Min      -->
@@ -279,7 +282,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@color/white"
-        android:visibility="visible">
+        android:visibility="gone">
 
         <ProgressBar
             android:id="@+id/progressBar"

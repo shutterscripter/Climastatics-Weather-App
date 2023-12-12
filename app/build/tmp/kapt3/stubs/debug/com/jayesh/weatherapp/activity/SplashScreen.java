@@ -14,17 +14,17 @@ public final class SplashScreen extends androidx.appcompat.app.AppCompatActivity
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final com.google.android.gms.location.FusedLocationProviderClient getMFusedLocation() {
         return null;
     }
     
-    public final void setMFusedLocation(@org.jetbrains.annotations.NotNull()
+    public final void setMFusedLocation(@org.jetbrains.annotations.NotNull
     com.google.android.gms.location.FusedLocationProviderClient p0) {
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     
@@ -46,9 +46,9 @@ public final class SplashScreen extends androidx.appcompat.app.AppCompatActivity
         return false;
     }
     
-    @java.lang.Override()
-    public void onRequestPermissionsResult(int requestCode, @org.jetbrains.annotations.NotNull()
-    java.lang.String[] permissions, @org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void onRequestPermissionsResult(int requestCode, @org.jetbrains.annotations.NotNull
+    java.lang.String[] permissions, @org.jetbrains.annotations.NotNull
     int[] grantResults) {
     }
 }

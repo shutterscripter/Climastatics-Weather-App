@@ -10,17 +10,17 @@ public final class TempActivity extends androidx.appcompat.app.AppCompatActivity
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtTest() {
         return null;
     }
     
-    public final void setTxtTest(@org.jetbrains.annotations.NotNull()
+    public final void setTxtTest(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
 }

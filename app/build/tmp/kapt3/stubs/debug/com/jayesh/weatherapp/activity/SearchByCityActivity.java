@@ -26,161 +26,161 @@ public final class SearchByCityActivity extends androidx.appcompat.app.AppCompat
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final com.google.android.material.appbar.AppBarLayout getAppbar() {
         return null;
     }
     
-    public final void setAppbar(@org.jetbrains.annotations.NotNull()
+    public final void setAppbar(@org.jetbrains.annotations.NotNull
     com.google.android.material.appbar.AppBarLayout p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final androidx.appcompat.widget.Toolbar getToolbar() {
         return null;
     }
     
-    public final void setToolbar(@org.jetbrains.annotations.NotNull()
+    public final void setToolbar(@org.jetbrains.annotations.NotNull
     androidx.appcompat.widget.Toolbar p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.EditText getEtSearch() {
         return null;
     }
     
-    public final void setEtSearch(@org.jetbrains.annotations.NotNull()
+    public final void setEtSearch(@org.jetbrains.annotations.NotNull
     android.widget.EditText p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtTemperature() {
         return null;
     }
     
-    public final void setTxtTemperature(@org.jetbrains.annotations.NotNull()
+    public final void setTxtTemperature(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtWeatherInfo() {
         return null;
     }
     
-    public final void setTxtWeatherInfo(@org.jetbrains.annotations.NotNull()
+    public final void setTxtWeatherInfo(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtMinTemp() {
         return null;
     }
     
-    public final void setTxtMinTemp(@org.jetbrains.annotations.NotNull()
+    public final void setTxtMinTemp(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtMaxTemp() {
         return null;
     }
     
-    public final void setTxtMaxTemp(@org.jetbrains.annotations.NotNull()
+    public final void setTxtMaxTemp(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtPressure() {
         return null;
     }
     
-    public final void setTxtPressure(@org.jetbrains.annotations.NotNull()
+    public final void setTxtPressure(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtHumidity() {
         return null;
     }
     
-    public final void setTxtHumidity(@org.jetbrains.annotations.NotNull()
+    public final void setTxtHumidity(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtWind() {
         return null;
     }
     
-    public final void setTxtWind(@org.jetbrains.annotations.NotNull()
+    public final void setTxtWind(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtVisibility() {
         return null;
     }
     
-    public final void setTxtVisibility(@org.jetbrains.annotations.NotNull()
+    public final void setTxtVisibility(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtCity() {
         return null;
     }
     
-    public final void setTxtCity(@org.jetbrains.annotations.NotNull()
+    public final void setTxtCity(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtFeelsLike() {
         return null;
     }
     
-    public final void setTxtFeelsLike(@org.jetbrains.annotations.NotNull()
+    public final void setTxtFeelsLike(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.TextView getTxtInfoTime() {
         return null;
     }
     
-    public final void setTxtInfoTime(@org.jetbrains.annotations.NotNull()
+    public final void setTxtInfoTime(@org.jetbrains.annotations.NotNull
     android.widget.TextView p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.RelativeLayout getProgressBarLayout() {
         return null;
     }
     
-    public final void setProgressBarLayout(@org.jetbrains.annotations.NotNull()
+    public final void setProgressBarLayout(@org.jetbrains.annotations.NotNull
     android.widget.RelativeLayout p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.ProgressBar getProgressBar() {
         return null;
     }
     
-    public final void setProgressBar(@org.jetbrains.annotations.NotNull()
+    public final void setProgressBar(@org.jetbrains.annotations.NotNull
     android.widget.ProgressBar p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final android.widget.LinearLayout getLlMainLayout() {
         return null;
     }
     
-    public final void setLlMainLayout(@org.jetbrains.annotations.NotNull()
+    public final void setLlMainLayout(@org.jetbrains.annotations.NotNull
     android.widget.LinearLayout p0) {
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     
